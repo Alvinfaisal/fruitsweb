@@ -327,6 +327,10 @@ ul {
   .home-cards {
     grid-template-columns: repeat(1, 1fr);
   }
+  
+  .main-nav ul.right-menu {
+    margin-right: 40px;
+  }
 
   .links .links-inner {
     grid-template-columns: repeat(1, 1fr);
